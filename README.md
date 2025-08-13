@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]([https://res.cloudinary.com/dobxyacku/image/upload/v1755056119/perfilegit_mbm5sf.png](https://res.cloudinary.com/dobxyacku/image/upload/v1755056748/Verde_Ne%C3%B3n_Futurista_Banner_para_Twitch_ipbnw2.png))
+![Banner](https://res.cloudinary.com/dobxyacku/image/upload/v1755056748/Verde_Ne%C3%B3n_Futurista_Banner_para_Twitch_ipbnw2.png)
 
 ## 👩‍💻 About Me:
 - 🎓 Estudiante de **Desarrollo de Software** en la *Universidad Tecnológica del Valle de Toluca*  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials:  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:al222310475@gmail.com)
 
 ---
@@ -38,5 +38,4 @@
 ## 📊 GitHub Stats:
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=fernandaAgustin&show_icons=true&theme=tokyonight)  
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaAgustin&layout=compact&theme=tokyonight)
-
 
