@@ -1,22 +1,26 @@
 <!-- Banner -->
 ![Banner](https://res.cloudinary.com/dobxyacku/image/upload/v1755056748/Verde_Ne%C3%B3n_Futurista_Banner_para_Twitch_ipbnw2.png)
 
-## 👩‍💻 About Me:
-- 🎓 Estudiante de **Desarrollo de Software** en la *Universidad Tecnológica del Valle de Toluca*  
-- 🎯 Egresada del **CETis 23** en la especialidad de **Programación**  
-- 💡 Apasionada por el desarrollo web, móvil y hardware  
-- 🌱 Actualmente mejorando mis habilidades en **React**, **Laravel** y **IoT**  
-- 💬 Pregúntame sobre JavaScript, Node.js, MySQL, MongoDB, Arduino, Flask, Java, C++  
-- ✨ *"Un buen programador escribe código que los humanos puedan entender"* – Martin Fowler  
+## 👩‍💻 Sobre mí
+💻 Desarrolladora en constante crecimiento, apasionada por crear soluciones tecnológicas innovadoras.  
+🚀 Me encanta aprender nuevas tecnologías y desarrollar proyectos que combinen creatividad y funcionalidad.  
+🎯 Objetivo: Convertirme en una desarrolladora full stack experta y contribuir a proyectos de impacto global.  
 
 ---
 
-## 🌐 Socials:  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:al222310475@gmail.com)
+## 🎓 Trayectoria académica
+- 📌 **Egresada de Técnica en Programación** – <span style="color:red">CETis 23</span>  
+- 📚 **Estudiante de Desarrollo de Software** – <span style="color:green">Universidad Tecnológica del Valle de Toluca</span> *(En curso)*  
 
 ---
 
-## 🛠 Tech Stack:
+## 🌐 Redes sociales
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:al222310475@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fernanda.osorioagustin/)
+
+---
+
+## 🛠 Tecnologías que uso
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -35,7 +39,24 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📌 Intereses
+- 🌍 Desarrollo web y móvil  
+- 🤖 Internet de las cosas (IoT)  
+- 📊 Ciencia de datos y análisis  
+- 🎨 Diseño UI/UX  
+
+---
+
+## 📊 Estadísticas de GitHub
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=fernandaAgustin&show_icons=true&theme=tokyonight)  
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaAgustin&layout=compact&theme=tokyonight)
 
+---
+
+## 📈 Actividad reciente
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=fernandaAgustin&theme=tokyo-night)
+
+---
+
+## 🎯 Racha de contribuciones
+![GitHub Streak](https://streak-stats.demolab.com?user=fernandaAgustin&theme=tokyonight&hide_border=false)
