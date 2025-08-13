@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://res.cloudinary.com/dobxyacku/image/upload/v1755056119/perfilegit_mbm5sf.png)
+![Banner](https://res.cloudinary.com/dobxyacku/image/upload/v1755054642/Blue_and_White_Futuristic_Artificial_Intelligence_Technology_Banner_z1thnr.png)
 
 ## 👩‍💻 About Me:
 - 🎓 Estudiante de **Desarrollo de Software** en la *Universidad Tecnológica del Valle de Toluca*  
@@ -39,7 +39,4 @@
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=fernandaAgustin&show_icons=true&theme=tokyonight)  
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaAgustin&layout=compact&theme=tokyonight)
 
----
 
-## 📈 Extra:
-![Snake animation](https://github.com/fernandaAgustin/fernandaAgustin/blob/output/github-contribution-grid-snake.svg)
