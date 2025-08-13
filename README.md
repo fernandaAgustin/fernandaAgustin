@@ -53,10 +53,5 @@
 
 ---
 
-## 📈 Actividad reciente
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=fernandaAgustin&theme=tokyo-night)
-
----
-
 ## 🎯 Racha de contribuciones
 ![GitHub Streak](https://streak-stats.demolab.com?user=fernandaAgustin&theme=tokyonight&hide_border=false)
