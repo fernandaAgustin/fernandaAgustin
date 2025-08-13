@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://res.cloudinary.com/dobxyacku/image/upload/v1755054642/Blue_and_White_Futuristic_Artificial_Intelligence_Technology_Banner_z1thnr.png)
+![Banner](https://res.cloudinary.com/dobxyacku/image/upload/v1755056119/perfilegit_mbm5sf.png)
 
 ## 👩‍💻 About Me:
 - 🎓 Estudiante de **Desarrollo de Software** en la *Universidad Tecnológica del Valle de Toluca*  
@@ -12,7 +12,6 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:al222310475@gmail.com)
 
 ---
