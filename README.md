@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://res.cloudinary.com/dobxyacku/image/upload/v1755056119/perfilegit_mbm5sf.png)
+![Banner]([https://res.cloudinary.com/dobxyacku/image/upload/v1755056119/perfilegit_mbm5sf.png](https://res.cloudinary.com/dobxyacku/image/upload/v1755056748/Verde_Ne%C3%B3n_Futurista_Banner_para_Twitch_ipbnw2.png))
 
 ## 👩‍💻 About Me:
 - 🎓 Estudiante de **Desarrollo de Software** en la *Universidad Tecnológica del Valle de Toluca*  
