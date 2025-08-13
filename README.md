@@ -48,11 +48,12 @@
 ---
 
 <!-- Estadísticas y Lenguajes -->
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandaAgustin&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaAgustin&layout=compact&theme=tokyonight" height="165">
 </p>
 ---
+
 <!-- Racha -->
 <img src="https://streak-stats.demolab.com?user=fernandaAgustin&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
